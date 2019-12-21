@@ -124,10 +124,22 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Form.h" />
+    <ClInclude Include="Form_Type_I.h" />
+    <ClInclude Include="Form_Type_L.h" />
+    <ClInclude Include="Form_Type_L_inversed.h" />
+    <ClInclude Include="Form_Type_N.h" />
+    <ClInclude Include="Form_Type_N_inversed.h" />
+    <ClInclude Include="Form_Type_Square.h" />
     <ClInclude Include="Form_type_T.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Form.cpp" />
+    <ClCompile Include="Form_Type_I.cpp" />
+    <ClCompile Include="Form_Type_L.cpp" />
+    <ClCompile Include="Form_Type_L_inversed.cpp" />
+    <ClCompile Include="Form_Type_N.cpp" />
+    <ClCompile Include="Form_Type_N_inversed.cpp" />
+    <ClCompile Include="Form_Type_Square.cpp" />
     <ClCompile Include="Form_type_T.cpp" />
     <ClCompile Include="main.cpp" />
   </ItemGroup>

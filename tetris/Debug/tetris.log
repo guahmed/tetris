@@ -1,5 +1,36 @@
-﻿  Form_type_T.cpp
-C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_type_T.cpp(39): error C2059: erreur de syntaxe : ')'
+﻿  Form.cpp
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form.cpp(139): error C2660: 'Form::Move' : la fonction ne prend pas 1 arguments
+  C:\Users\ahmed guetat\source\repos\tetris\tetris\Form.cpp(89): note: voir la déclaration de 'Form::Move'
+  Form_Type_I.cpp
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_I.cpp(22): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_I.cpp(23): error C2065: 'Current_line' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_I.cpp(32): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_I.cpp(34): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_I.cpp(40): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_I.cpp(42): error C2065: 'X_pos' : identificateur non déclaré
+  Form_Type_L.cpp
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_L.cpp(20): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_L.cpp(21): error C2065: 'Current_line' : identificateur non déclaré
+  Form_Type_L_inversed.cpp
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_L_inversed.cpp(19): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_L_inversed.cpp(20): error C2065: 'Current_line' : identificateur non déclaré
+  Form_Type_N.cpp
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_N.cpp(19): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_N.cpp(20): error C2065: 'Current_line' : identificateur non déclaré
+  Form_Type_N_inversed.cpp
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_N_inversed.cpp(20): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_N_inversed.cpp(21): error C2065: 'Current_line' : identificateur non déclaré
+  Form_Type_Square.cpp
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_Square.cpp(19): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_Square.cpp(20): error C2065: 'Current_line' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_Square.cpp(30): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_Square.cpp(32): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_Square.cpp(37): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_Type_Square.cpp(39): error C2065: 'X_pos' : identificateur non déclaré
+  Form_type_T.cpp
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_type_T.cpp(23): error C2065: 'X_pos' : identificateur non déclaré
+C:\Users\ahmed guetat\source\repos\tetris\tetris\Form_type_T.cpp(24): error C2065: 'Current_line' : identificateur non déclaré
   main.cpp
-C:\Users\ahmed guetat\source\repos\tetris\tetris\main.cpp(52): error C2059: erreur de syntaxe : '}'
+C:\Users\ahmed guetat\source\repos\tetris\tetris\main.cpp(102): warning C4244: 'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
   Génération de code en cours...
+C:\Users\ahmed guetat\source\repos\tetris\tetris\main.cpp(123): warning C4715: 'Create_Object' : les chemins de contrôle ne retournent pas tous une valeur

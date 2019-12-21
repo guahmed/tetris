@@ -1,19 +1,28 @@
 #pragma once
 #include <iostream>
 
+
 class Form
 {
-	private:
+	protected:
 	
-		int Matrix[4][4];
-
+		int Matrix[3][3];
+		int X;
+		int Y;
 
 	public:
 
-		virtual bool check_position(int x, int y)=0;
-
 		Form();
 
-		~Form();
-};
+	   ~Form();
 
+
+	
+		void Rotate();
+		void Move(int matrix_map[17][17],int x,int y);
+		void Move_Right_Left(int matrix_map[17][17]);
+		void Loop(int matrix_map[17][17]);
+		
+
+};
+	
